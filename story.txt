@@ -1,4 +1,5 @@
 Once upon a time at Lane Tech...
 
+This is the first paragraph.
 
 ... The end!
