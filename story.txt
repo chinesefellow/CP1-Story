@@ -2,4 +2,6 @@ Once upon a time at Lane Tech...
 
 This is the first paragraph.
 
+Adding a second paragraph for Lesson 2.
+
 ... The end!
